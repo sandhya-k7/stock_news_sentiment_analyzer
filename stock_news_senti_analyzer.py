@@ -14,8 +14,8 @@ st.markdown("<style>body {background-color: #e6f5e6;}</style>", unsafe_allow_htm
 st.markdown("<h1 style='color:#2e7d32;'>📊 Stock News Sentiment Dashboard</h1>", unsafe_allow_html=True)
 
 # === API Keys ===
-NEWS_API_KEY = "pub_61595988246c485eab2e8cb2233ddf85"
-STOCK_API_KEY = "J3821OFST12D0Z8O"
+NEWS_API_KEY = "enter you news api key "
+STOCK_API_KEY = "enter you stock api key "
 
 # === Cached Models and Data ===
 @st.cache_resource
